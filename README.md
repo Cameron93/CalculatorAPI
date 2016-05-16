@@ -5,6 +5,8 @@
 
 Download the project
 
+Extract the contents
+
 
 'CD' into the directory of the project
 
